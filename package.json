@@ -1,0 +1,24 @@
+{
+  "name": "viewEvents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rook2pawn/viewEvents.git"
+  },
+  "keywords": [],
+  "author": "david wee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rook2pawn/viewEvents/issues"
+  },
+  "homepage": "https://github.com/rook2pawn/viewEvents#readme",
+  "dependencies": {
+    "JSONStream": "^1.3.5",
+    "through2": "^3.0.1"
+  }
+}
